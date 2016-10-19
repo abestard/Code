@@ -1,0 +1,104 @@
+-Code Template{
+	1-optimizacion de cin y cout
+	2-Java Template
+}
+-Teoria de Numeros{
+	1-Formulas	
+		1-Euler’s formula
+		2-Number Catalan ok
+		3-Desarranjo ok
+	2-Inverso modular de N!  ok
+	3-Modular Multiplication of big numbers ok
+	4-Rabin-Miller ok
+	5-Pollard-Rho ok
+	6-Extended GCD(ax+by = d) ok
+	7-Inverso Modular ok
+	8-Teorema del Resto Chino ok
+    9-Modular Equations(ax(n)=b(n)) ok
+   10-Find a primitive root of a prime number	ok
+   11-Algoritmo Shanka-Tonelli(x^2 = a(mod p)) ok
+   12-Shanks' Algorithm(a^x = b(m)) ok
+   13-FFT sin complex ok
+   14-FFT con complex ok
+   15-Phi ok
+   16-Brent’s Algorithm (Cycle detection) ok
+   17-Floyd’s Cycle-Finding algorithm
+   18-Matrix Exponentiation
+   19-Fast Square Testing
+}
+-String{
+    1-Hashing ok
+	2-Aho Corasick ok
+    3-Manacher ok
+	4-Suffix Array ok
+    5-Z-Algorithm ok	 
+	6-Lecomposition of lyndon ok
+	7-LCS ok
+	8-Edit_Distant ok
+	9-KMP ok
+   10-Menor Rotación Lexicográfica ok 
+}
+-Grafo{
+    1-Struct edges ok
+	2-Bellman Ford ok
+	3-LCA ok
+	4-Bridges y Punto de Articulacion ok
+	5-Tarjan SCC ok
+	6-Tarjan BCC ok
+	7-vertex cover bipartite ok
+	8-Edmons-Karp ok
+    9-Dinic ok
+   10-StoerWagner ok 
+   11-Max_Flow_Min_Cost ok
+   12-Hungarian ok
+   13-Kuhn Bipartite Matching ok
+   14-Hopcroft–Karp Bipartite Matching ok 
+   15-Havy light decomposition ok
+   16-Estable Marriage
+   17-Edmons ok
+   18-Centroid descomposition   ok 
+}
+-Data Structures{
+	1-Suma de intervalos con BIT ok
+	2-AVL ok
+	3-Misof Tree->the nth largest element ok
+	4-Convex Hull Trick ok
+	5-Monotonic Queue ok
+	6-Splay Tree ok
+	7-RMQ ok
+}
+-Dinamica{
+    1-Conquer and Divide Optimizations ok
+	2-LIS-LDS ok
+	3-Towers of Hanoi ok
+}
+-Geometria{
+    1- Base element
+	2- The traveling direction of the point (ccw)
+	3- Intersection
+	4- Distance.
+	5- End point
+	6- Polygon inclusion decision point
+	7- Area of a polygon
+	8- Perturbative deformation of the polygon
+	9- triangulation
+   10-Convex hull (Andrew's Monotone Chain)
+   11-Convexity determination
+   12-Cutting of a convex polygon
+   13-Diameter of a convex polygon
+   14-End point of a convex polygon
+   15-Convex polygon inclusion decision point
+   16-Incircle
+   17-Closest Pair Point
+   18-Intriangle
+   19-Three Point Circle
+   20-Circle_circle_intersect
+}
+-Debugging Tips
+-Solution Ideas
+
+ver:
+ Dancing Links ED
+ Suffix Automata
+ NRA struct
+ 
